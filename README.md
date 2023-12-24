@@ -1,3 +1,2 @@
 # OMA
- first GO project, must be fun!
- Hi, im dhev
+ how do u make a readme file
